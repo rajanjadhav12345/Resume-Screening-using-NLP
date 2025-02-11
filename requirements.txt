@@ -1,0 +1,6 @@
+numpy
+pypdf
+nltk
+scikit-learn
+seaborn
+matplotlib
